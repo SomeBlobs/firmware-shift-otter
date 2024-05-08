@@ -107,6 +107,7 @@ mcfg_sw/generic/NA/Telus/Commercial/CA/mcfg_sw.mbn
 mcfg_sw/generic/NA/USCC/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/NA/Verizon/CDMAless/mcfg_sw.mbn
 mcfg_sw/generic/NA/Verizon/IMSless/mcfg_sw.mbn
+mcfg_sw/generic/NA/Verizon/Private_NW/mcfg_sw.mbn
 mcfg_sw/generic/NA/Verizon/hVoLTE/mcfg_sw.mbn
 mcfg_sw/generic/Russia/Beeline/Gen_3GPP/mcfg_sw.mbn
 mcfg_sw/generic/Russia/MTS/Commercial/RU/mcfg_sw.mbn
