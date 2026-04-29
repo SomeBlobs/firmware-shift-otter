@@ -9,7 +9,7 @@ SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 || exit ; pwd -P )"
 
 SRC_DIR=${1:-$(realpath "$SCRIPTPATH/..")}
 DST_DIR=${2:-"$SRC_DIR/out"}
-FW_DIR="$DST_DIR/lib/firmware/qcom/qcm6490/SHIFT/otter"
+FW_DIR="$DST_DIR/usr/lib/firmware/qcom/qcm6490/SHIFT/otter"
 HEXAGON_DIR="$DST_DIR/usr/share/qcom/qcm6490/SHIFT/otter"
 
 if [ ! -d "$FW_DIR" ]; then
