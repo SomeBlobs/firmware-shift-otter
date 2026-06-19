@@ -39,7 +39,7 @@ cp -v msbtfw11.mbn msnv11.bin "$BT_DIR"
 echo ""
 
 echo "Copying hexagonfs"
-cp -v -r "$SRC_DIR/hexagonfs/" "$HEXAGON_DIR"
+cp -rv "$SRC_DIR/hexagonfs/"* "$HEXAGON_DIR"
 echo ""
 
 echo "Fixing permissions of all files"
